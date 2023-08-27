@@ -18,9 +18,9 @@ x4=0
 #imgkucukcizim=img.copy() "Warning flashing bright images.
 while True:
 
-    renkb=random.randint(0,251)
-    renkg=random.randint(0,251)
-    renkr=random.randint(0,251)
+    #renkb=random.randint(0,251) #For 17-18. Defines random colors so it şs easier to see different pixels
+    #renkg=random.randint(0,251)
+    #renkr=random.randint(0,251)
     kucukx=0
     kucuky=0
     sayac=0
